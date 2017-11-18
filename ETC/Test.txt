@@ -4,6 +4,8 @@
  - Bringe deine Glasfalschen in den Container (Personal)
  - Dusche heute kürzer (Community - Gesamtersparnis hochgerechnet)
  - kontrolliere deine Glühlampen -> gibt es sparendere? (Personal)
+ - Gehe nicht in den Standby sondern schalte ganz aus (Community/Persönlich)
+ - brechne deinen Co2-Fußabrdruck und denke drüber nach was du in Zukunft besser machen kannst (Personal)
 
 ## Ideas für Tipps/Tricks/Fun Facts
 
@@ -13,8 +15,31 @@
  - Grünen Strom "beantragen" bzw. Strompartner wechseln
  - Bei dem Kauf von Elektroprodukten achte auf die Energieeffizinenz
  - heize dein zu hause weniger
+ - support Umweltschützende Organisationen
  - Kannst du bei dir erneuerbare Engerien einrichten
  - fahre weniger Auto
+ - bessere Isolierung zu hause
+ - habe einen Kompost
  - fahre in Fahrgemeinschaften
  - kaufe lokale und sesionale Produkte (aktuell wäre das: Apfel?)
  - nächste öffentliche Verbindung (hier wäre das Garching FZ)
+
+
+
+
+
+
+Daten:
+
+Laut Weltklimarat dürfen die Pro-Kopf-Emissionen jedes Erdenbürgers nicht mehr als zwei Tonnen CO2 pro Jahr betragen. Jeder Deutsche kommt aber schon auf elf (oder 10 bis 9 [2]) Tonnen. [1]
+
+
+
+
+
+
+
+
+(Quellen:
+[1] http://www.focus.de/wissen/klima/weltklimakonferenz_2011/tid-24333/co2-emissionen-pro-bundesbuerger-ein-durchschnittliches-deutsches-klimaschwein_aid_689366.html;
+[2] https://de.wikipedia.org/wiki/Liste_der_L%C3%A4nder_nach_CO2-Emission)
