@@ -49,11 +49,11 @@
   <path style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" d="M 812.197 -24.213"/>
   <text x="100.008" y="847.091" style="fill: rgb(255, 255, 255); font-family: Roboto; font-size: 40px; font-weight: 300; white-space: pre;">The closest shared</text>
   <text x="100.008" y="837.086" transform="matrix(1, 0, 0, 1.000001, -0.000004, 69.999252)" style="fill: rgb(255, 255, 255); font-family: Roboto; font-size: 40px; font-weight: 300; white-space: pre;">bike to you is just</text>
-  <text x="100.008" y="837.086" transform="matrix(1, 0, 0, 1.000001, -0.000084, 181.436996)" style="fill: rgb(255, 255, 255); font-family: Roboto; font-size: 99.9999px; font-weight: 300; white-space: pre;">200m</text>
+  <text x="100.008" y="837.086" transform="matrix(1, 0, 0, 1.000001, -0.000084, 181.436996)" style="fill: rgb(255, 255, 255); font-family: Roboto; font-size: 99.9999px; font-weight: 300; white-space: pre;">10.03 km</text>
   <text x="100.008" y="837.086" transform="matrix(1, 0, 0, 1.000001, 0, 249.999237)" style="fill: rgb(255, 255, 255); font-family: Roboto; font-size: 40px; font-weight: 300; white-space: pre;">away!</text>
   <line style="stroke: rgb(0, 0, 0);" x1="522.1915893554688" y1="1457.6622314453125" x2="522.1915893554688" y2="1457.6622314453125"/>
   <path style="stroke: rgb(0, 0, 0); stroke-width: 0; fill: rgb(0, 104, 216);"/>
-  <g transform="matrix(-0.578165, 0, 0, 0.578165, 1049.257202, 41.748383)">
+  <g transform="matrix(-0.523808, 0, 0, 0.523808, 1064.285156, 158.335403)">
     <ellipse cx="575" cy="1675" rx="25" ry="25" style="fill: rgba(216, 216, 216, 0); stroke: rgb(0, 0, 0); stroke-width: 40;"/>
     <ellipse transform="matrix(1, -0.000001, 0, 1, -975.230042, -20.894165)" cx="1200.23" cy="1620.895" rx="150" ry="150" style="fill: rgba(216, 216, 216, 0); stroke: rgb(0, 0, 0); stroke-width: 40;"/>
     <ellipse transform="matrix(0.999999, -0.000002, 0, 1, -775.189697, 249.255249)" cx="1000.191" cy="1350.745" rx="125" ry="125" style="fill: rgba(216, 216, 216, 0); stroke-width: 20; stroke: rgb(197, 197, 197);"/>
