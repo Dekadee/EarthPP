@@ -20,16 +20,15 @@
     <bx:grid x="0" y="0" width="25" height="25"/>
   </defs>
   <rect width="1080" height="960" style="fill: url(#gradient-3);"/>
-  <g transform="matrix(1.12, 0, 0, 1.12, -126.982697, 122.000053)">
-    <ellipse transform="matrix(1, 0.00004, -0.000039, 1, 467.524003, -278.404263)" cx="382.489" cy="528.397" rx="200" ry="200" style="fill: rgb(235, 215, 38);"/>
-    <line x1="775" y1="500" x2="925" y2="500" style="stroke-linecap: round; stroke-width: 50; stroke: rgb(163, 158, 115);"/>
-    <line x1="775" y1="575" x2="925" y2="575" style="stroke-linecap: round; stroke-width: 50; stroke: rgb(163, 158, 115);"/>
-    <line x1="825" y1="650" x2="875" y2="650" style="stroke-linecap: round; stroke-width: 50; stroke: rgb(163, 158, 115);"/>
-    <line x1="800" y1="150" x2="950" y2="150" style="stroke-linecap: round; stroke-width: 50; stroke: rgb(255, 255, 255);"/>
-    <path d="M 850 275 L 1048.446 275 C 1046.269 292.466 1041.839 309.233 1035.458 325 L 850 325 Z" style="fill: rgb(255, 255, 255);"/>
-    <ellipse transform="matrix(1, 0.000078, -0.000083, 1, -184.131386, -151.082961)" cx="1034.171" cy="451.004" rx="25" ry="25" style="fill: rgb(255, 255, 255);"/>
-    <line x1="900" y1="250" x2="1025" y2="250" style="stroke-linecap: round; stroke-width: 50; stroke: rgb(255, 255, 255);"/>
+  <g transform="matrix(0.66913, 0.743145, -0.743145, 0.66913, 590.287231, -455.669342)">
+    <line style="stroke-linecap: round; stroke: rgb(235, 215, 38); stroke-width: 30;" x1="825" y1="50" x2="825" y2="150"/>
+    <line style="stroke-linecap: round; stroke: rgb(235, 215, 38); stroke-width: 30;" x1="825" y1="700" x2="825" y2="800"/>
   </g>
+  <g transform="matrix(0.978147, -0.207912, 0.207912, 0.978147, -68.850815, 197.620026)">
+    <line style="stroke-linecap: round; stroke: rgb(235, 215, 38); stroke-width: 30;" x1="825" y1="50" x2="825" y2="150"/>
+    <line style="stroke-linecap: round; stroke: rgb(235, 215, 38); stroke-width: 30;" x1="825" y1="700" x2="825" y2="800"/>
+  </g>
+  <ellipse transform="matrix(-0.309017, 0.951056, -0.951057, -0.309017, 1911.451741, -355.046639)" cx="1093.126" cy="785.625" rx="225" ry="225" style="fill: rgb(235, 215, 38);"/>
   <text x="100.008" y="230.32" style="fill: rgb(255, 255, 255); font-family: Roboto; font-size: 140px; font-weight: 300; white-space: pre;">Check your</text>
   <text x="100.008" y="390.319" style="fill: rgb(255, 255, 255); font-family: Roboto; font-size: 140px; font-weight: 300; white-space: pre;">lightbulbs!</text>
   <text x="100.008" y="536.284" style="fill: rgb(255, 255, 255); font-family: Roboto; font-size: 40px; font-weight: 300; white-space: pre;">You can save up to 500 kg of</text>
@@ -37,4 +36,16 @@
   <text x="100.008" y="656.291" style="fill: rgb(255, 255, 255); font-family: Roboto; font-size: 40px; font-weight: 300; white-space: pre;">exchange for an LED-bulb!</text>
   <text x="100.008" y="716.295" style="fill: rgb(255, 255, 255); font-family: Roboto; font-size: 40px; font-weight: 300; white-space: pre;">That's as much as burning</text>
   <text x="100.008" y="776.296" style="fill: rgb(255, 255, 255); font-family: Roboto; font-size: 40px; font-weight: 300; white-space: pre;">an entire tree for each bulb.</text>
+  <line style="stroke-linecap: round; stroke: rgb(161, 161, 161); stroke-width: 60;" x1="666.504" y1="703.348" x2="816.504" y2="703.348" transform="matrix(0.951057, 0.309017, -0.309017, 0.951057, 253.637996, -194.712885)"/>
+  <line style="stroke-linecap: round; stroke: rgb(161, 161, 161); stroke-width: 60;" x1="643.327" y1="774.677" x2="793.327" y2="774.676" transform="matrix(0.951056, 0.309018, -0.309018, 0.951056, 274.54639, -184.060235)"/>
+  <line style="stroke-linecap: round; stroke: rgb(161, 161, 161); stroke-width: 60;" x1="670.151" y1="846.007" x2="720.151" y2="846.007" transform="matrix(0.951057, 0.309017, -0.309017, 0.951057, 295.453337, -173.406804)"/>
+  <path style="paint-order: stroke; fill: rgba(0, 0, 0, 0); stroke-linecap: round; stroke-width: 15; stroke: rgb(0, 0, 0);" d="M 758.999 560.039 C 758.999 579.285 779.832 591.313 796.499 581.69 C 804.234 577.224 808.999 568.971 808.999 560.039" transform="matrix(0.951057, 0.309017, -0.309017, 0.951057, 215.301535, -214.245841)"/>
+  <ellipse transform="matrix(0.951063, 0.308996, -0.308998, 0.951064, 94.913557, -207.548325)" cx="1006.416" cy="451.527" rx="40" ry="40"/>
+  <ellipse transform="matrix(0.951062, 0.309001, -0.309, 0.951063, 597.853465, 231.550504)" cx="377.406" cy="169.323" rx="15" ry="15" style="fill: rgb(255, 255, 255);"/>
+  <ellipse transform="matrix(0.951064, 0.308997, -0.308998, 0.951063, -114.320626, -275.53426)" cx="1006.42" cy="451.527" rx="40" ry="40"/>
+  <ellipse transform="matrix(0.951062, 0.308999, -0.308997, 0.951064, 388.621902, 163.567599)" cx="377.406" cy="169.323" rx="15" ry="15" style="fill: rgb(255, 255, 255);"/>
+  <g transform="matrix(0.951057, 0.309017, -0.309017, 0.951057, 173.194168, -217.332138)">
+    <line style="stroke-linecap: round; stroke: rgb(235, 215, 38); stroke-width: 30;" x1="825" y1="50" x2="825" y2="150"/>
+    <line style="stroke-linecap: round; stroke: rgb(235, 215, 38); stroke-width: 30;" x1="825" y1="700" x2="825" y2="800"/>
+  </g>
 </svg>
