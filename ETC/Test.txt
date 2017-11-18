@@ -35,9 +35,33 @@ Laut Weltklimarat dürfen die Pro-Kopf-Emissionen jedes Erdenbürgers nicht mehr
 
 
 
+Vorschlag für Präsentation:
 
+[Slide 1] Bild von einem Hurrikan
+https://www.zdf.de/assets/hurrikan-irma-108~1920x1080?cb=1504790997119
 
+[Slide 2] Bild von einem Waldbrand (als Kontrast)
+https://i0.web.de/image/376/32383376,pd=1/waldbrand-portugal-2017.jpg
 
+[Slide 3] Smog-Bild
+https://d1o50x50snmhul.cloudfront.net/wp-content/uploads/2017/05/02163148/p8713477-2.jpg
+
+[Slide 4] Unser App-Logo über die ganze Seite
+Wir wollen das aktuell größte Problem lösen: "Global Warming"
+Deshalb haben wir eine App geschrieben, die Leute motivieren einen besseren/umweltbewussteren Lifestyle zu führen. Jeder wird individuell von der App gefordert.
+
+[Slide 5]
+In unserer App wollen wir besonders den Community gedanken hervorheben...
+Man arbeitet zusammen an daily Callanges, kann sich aber trotzdem seinen Lowscore ;) in dem Leaderboard mit anderen vergleichen.
+
+[Slide 6]
+Mit der freundlichen Unterstützung der Stadt München konnten wir Daten als individuelle Hilfsstütze und als interessante Fakten nutzen.
+
+Zu der Demo...
+
+[letze Slide]
+
+natürlich löst sich das Problem nicht dadurch, dass eine Person diese App nutzt; aber wenn wir zusammen an diesem Problem arbeiten können wir Lösungen finden.
 
 
 (Quellen:
