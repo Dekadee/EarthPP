@@ -20,13 +20,13 @@
         android:id="@+id/navigation_notifications"
         android:enabled="true"
         android:icon="@drawable/lowscores_3"
-        android:title="Leaderbaord"
+        android:title="Leaderboard"
         app:showAsAction="withText" />
     <item
         android:id="@+id/navigation_hints"
         android:enabled="true"
         android:icon="@drawable/facts_4"
-        android:title="Notes"
+        android:title="Facts"
         app:showAsAction="withText" />
 
 </menu>

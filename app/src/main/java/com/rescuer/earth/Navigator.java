@@ -30,7 +30,6 @@ public class Navigator extends AppCompatActivity {
                     Fragment fragment = new StartPage();
                     FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
                     transaction.replace(R.id.content, fragment);
-                    transaction.addToBackStack(null);
                     transaction.commit();
                     }catch (Exception e){
                         Log.e("Error","Failed to load Fragment");
@@ -42,7 +41,6 @@ public class Navigator extends AppCompatActivity {
                         Fragment fragment = new Challenges();
                         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
                         transaction.replace(R.id.content, fragment);
-                        transaction.addToBackStack(null);
                         transaction.commit();
                     }catch (Exception e){
                         Log.e("Error","Failed to load Fragment");
@@ -55,7 +53,6 @@ public class Navigator extends AppCompatActivity {
                         Fragment fragment = new LowScore();
                         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
                         transaction.replace(R.id.content, fragment);
-                        transaction.addToBackStack(null);
                         transaction.commit();
                     }catch (Exception e){
                         Log.e("Error","Failed to load Fragment");
@@ -67,7 +64,6 @@ public class Navigator extends AppCompatActivity {
                         Fragment fragment = new Hints();
                         FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
                         transaction.replace(R.id.content, fragment);
-                        transaction.addToBackStack(null);
                         transaction.commit();
                     }catch (Exception e){
                         Log.e("Error","Failed to load Fragment");
