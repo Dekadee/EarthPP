@@ -7,25 +7,19 @@ import android.support.v4.app.FragmentPagerAdapter;
 
 public class PagerAdapter extends FragmentPagerAdapter {
 
+
     public PagerAdapter(Context ctxt, FragmentManager mgr) {
         super(mgr);
     }
 
     @Override
     public int getCount() {
-        return 2;
+        return 4;
     }
 
     @Override
     public Fragment getItem(int position) {
-        switch(position) {
-            case 0:
-                return new LowScore();
-            case 1:
-                return new PictureHolder();
-            default:
-                return new PictureHolder();
-        }
+        return PictureHolder.newInstance(position);
     }
 
     @Override
