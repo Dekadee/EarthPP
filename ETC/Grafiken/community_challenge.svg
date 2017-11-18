@@ -44,4 +44,5 @@
   <rect x="100" y="850.001" width="332" height="24.999" style="fill: rgb(255, 255, 0);"/>
   <line style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); stroke-linecap: round; stroke-width: 100;" x1="290" y1="505" x2="440" y2="654.999"/>
   <line style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); stroke-linecap: round; stroke-width: 100;" x1="440" y1="654.999" x2="790" y2="305"/>
+  <text x="459.009" y="785.009" style="fill: rgb(255, 255, 255); font-family: Roboto; font-size: 60px; font-weight: 500; white-space: pre;">UNDO</text>
 </svg>
