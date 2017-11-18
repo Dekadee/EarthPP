@@ -50,9 +50,9 @@ public class Challenges extends Fragment {
         View view = inflater.inflate(R.layout.fragment_challenges, container, false);
 
         ImageView upperImage = (ImageView) view.findViewById(R.id.upperImage);
-        upperImage.setOnClickListener(new OnClicker(upperImage,R.drawable.personal_challenge_cut,R.drawable.personal_challenge_done));
+        upperImage.setOnClickListener(new OnClicker(upperImage,R.drawable.personal_challenge,R.drawable.personal_challenge_done));
         ImageView lowerimage = (ImageView) view.findViewById(R.id.lowerImage);
-        lowerimage.setOnClickListener(new OnClicker(lowerimage,R.drawable.community_challenge_cut,R.drawable.community_challenge_done));
+        lowerimage.setOnClickListener(new OnClicker(lowerimage,R.drawable.community_challenge,R.drawable.community_challenge_done));
 
         return view;
     }

@@ -1,19 +1,63 @@
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.rescuer.earth.StartPage">
-
-    <!-- TODO: Update blank fragment layout -->
+    tools:context="com.rescuer.earth.StartPage"
+    android:background="@drawable/background">
 
     <ImageView
         android:id="@+id/earthView"
         android:layout_width="match_parent"
         android:layout_height="433dp"
-        android:contentDescription="Main Earth View"
-        app:srcCompat="@drawable/ic_earth"
-        android:layout_margin="40px"
+        android:layout_marginLeft="40px"
+        android:layout_marginRight="40px"
 
-        />
-</FrameLayout>
+        android:layout_marginTop="40px"
+        android:contentDescription="Main Earth View"
+        app:srcCompat="@drawable/earth_sad" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/earthView"
+        android:layout_alignLeft="@+id/earthView"
+        android:layout_alignRight="@+id/earthView"
+        android:layout_alignStart="@+id/earthView"
+        android:layout_below="@+id/earthView"
+        android:text="If everyone would live like you do, Earth++ Team, we'd need"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="24sp" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/textView"
+        android:layout_alignLeft="@+id/textView"
+        android:layout_alignRight="@+id/textView"
+        android:layout_alignStart="@+id/textView"
+        android:layout_below="@+id/textView"
+        android:text="4 EARTHS"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="42sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/textView2"
+        android:layout_alignLeft="@+id/textView2"
+        android:layout_alignRight="@+id/textView2"
+        android:layout_alignStart="@+id/textView2"
+        android:layout_below="@+id/textView2"
+        android:text="(8 tons of CO²/year)"
+        android:textAlignment="center"
+        android:textColor="#FFFFFF"
+        android:textSize="18sp"
+        android:textStyle="italic" />
+</RelativeLayout>

@@ -27,7 +27,7 @@ public class Navigator extends AppCompatActivity {
             switch (item.getItemId()) {
                 case R.id.navigation_home:
                     try{
-                    Fragment fragment = new StartPage();
+                    Fragment fragment = StartPage.newInstance(70);
                     FragmentTransaction transaction = getSupportFragmentManager().beginTransaction();
                     transaction.replace(R.id.content, fragment);
                     transaction.commit();

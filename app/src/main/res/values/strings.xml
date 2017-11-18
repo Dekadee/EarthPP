@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Earth++</string>
+    <string name="app_name">earth++</string>
     <string name="title_activity_navigator">Navigator</string>
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
