@@ -48,4 +48,9 @@
     <line style="stroke-linecap: round; stroke: rgb(235, 215, 38); stroke-width: 30;" x1="825" y1="50" x2="825" y2="150"/>
     <line style="stroke-linecap: round; stroke: rgb(235, 215, 38); stroke-width: 30;" x1="825" y1="700" x2="825" y2="800"/>
   </g>
+  <rect width="1080" height="960" style="fill-opacity: 0.4;"/>
+  <g transform="matrix(1, 0, 0, 1, 39.999996, 105.000015)">
+    <line style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); stroke-linecap: round; stroke-width: 100;" x1="250" y1="400" x2="400" y2="549.999"/>
+    <line style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); stroke-linecap: round; stroke-width: 100;" x1="400" y1="549.999" x2="750" y2="200"/>
+  </g>
 </svg>

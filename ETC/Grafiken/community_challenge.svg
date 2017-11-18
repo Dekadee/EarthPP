@@ -34,11 +34,14 @@
   <text x="100.008" y="656.291" style="fill: rgb(255, 255, 255); font-family: Roboto; font-size: 40px; font-weight: 300; white-space: pre;">A typical bicycle ride saves up to</text>
   <text x="100.008" y="716.295" style="fill: rgb(255, 255, 255); font-family: Roboto; font-size: 40px; font-weight: 300; white-space: pre;">5 kg of CO² compared to going by car.</text>
   <rect x="825" y="372.003" width="350" height="700" style="fill: rgb(128, 95, 58);"/>
-  <rect x="525.852" y="1017.516" width="874.999" height="25" transform="matrix(1, 0, 0, 1.000002, -425.852051, -167.518109)" style="fill: rgb(255, 255, 255);"/>
-  <rect x="100" y="850.001" width="325" height="24.999" style="fill: rgb(255, 255, 0);"/>
-  <text x="100.008" y="837.681" style="fill: rgb(255, 255, 255); font-family: Roboto; font-size: 40px; font-weight: 300; white-space: pre;">37 % done</text>
   <rect x="974.999" y="422.003" width="50.002" height="152.997"/>
   <ellipse transform="matrix(1, 0.000001, -0.000002, 1.000001, -559.54518, -467.610664)" cx="1559.546" cy="1192.608" rx="100" ry="100" style="fill: rgb(194, 194, 194);"/>
   <ellipse transform="matrix(0.999999, 0, 0, 1, 220.2302, 128.697998)" cx="779.774" cy="596.3" rx="50" ry="50"/>
   <ellipse transform="matrix(1.000001, 0, 0, 1, 610.109448, -248.161011)" cx="389.89" cy="298.161" rx="25" ry="25" style="fill: rgb(255, 234, 0);"/>
+  <rect width="1080" height="960" style="fill-opacity: 0.4;"/>
+  <text x="100.008" y="837.681" style="fill: rgb(255, 255, 255); font-family: Roboto; font-size: 40px; font-weight: 300; white-space: pre;">38 % done</text>
+  <rect x="525.852" y="1017.516" width="874.999" height="25" transform="matrix(1, 0, 0, 1.000002, -425.852051, -167.518109)" style="fill: rgb(255, 255, 255);"/>
+  <rect x="100" y="850.001" width="332" height="24.999" style="fill: rgb(255, 255, 0);"/>
+  <line style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); stroke-linecap: round; stroke-width: 100;" x1="290" y1="505" x2="440" y2="654.999"/>
+  <line style="fill: rgb(255, 255, 255); stroke: rgb(255, 255, 255); stroke-linecap: round; stroke-width: 100;" x1="440" y1="654.999" x2="790" y2="305"/>
 </svg>
